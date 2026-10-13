@@ -5,9 +5,10 @@
     <packageId>sk.limitedpassions</packageId>
     <supportedVersions>
         <li>1.6</li>
+        <li>1.7</li>
     </supportedVersions>
     <description>Limits newly generated humanlike pawns to one minor passion and one major passion.</description>
-    <modVersion>1.0.0</modVersion>
+    <modVersion>1.1.0</modVersion>
     <url>https://steamcommunity.com/sharedfiles/filedetails/?id=3784966493</url>
     <modDependencies>
         <li>
